@@ -10,4 +10,4 @@
 ## Contacto
 📧 **sidorenko.bogdan.05@gmail.com**  
 [LinkedIn](https://www.linkedin.com/in/bohdan-sydorenko-6993b13977)
-[Link text Here](https://link-url-here.org)
+[Telegram](https://t.me/Sagmanua)
