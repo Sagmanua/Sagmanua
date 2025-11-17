@@ -16,5 +16,6 @@
 
 ## Contact
 📧 [sidorenko.bogdan.05@gmail.com](mailto:sidorenko.bogdan.05@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/bohdan-sydorenko-6993b13977)  
-[Telegram](https://t.me/Sagmanua)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan_Sydorenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bohdan-sydorenko-6993b13977)  
+[![Telegram](https://img.shields.io/badge/Telegram-Sagmanua-0088cc?style=flat-square&logo=telegram)](https://t.me/Sagmanua)
+
