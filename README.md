@@ -15,6 +15,16 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 
 💡 **Check out my repositories** to see what I’m building next!
 
+### 🛠 &nbsp;Technologies That I Know
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,github,html,js,java,python,mongodb,mysql,vscode,eclipse,md,&perline=14" />
+  </a>
+</p>
+
+
 ## My Statistica 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sagmanua&show_icons=true&theme=tokyonight" height="150"/>
