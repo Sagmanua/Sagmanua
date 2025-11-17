@@ -9,5 +9,5 @@
 
 ## Contacto
 📧 **sidorenko.bogdan.05@gmail.com**  
-[LinkedIn](www.linkedin.com/in/bohdan-sydorenko-6993b13977)  
+[LinkedIn](https://www.linkedin.com/in/bohdan-sydorenko-6993b13977)
 [Link text Here](https://link-url-here.org)
