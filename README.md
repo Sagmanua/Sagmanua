@@ -2,10 +2,10 @@
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
 
-<h3 align="center">
+<h2 align="center">
   Hi, I'm Bohdan Sydorenko
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+</h2>
 
 I’m a **Multiplatform Application Development** student based in Valencia, Spain, passionate about building things that work—and work well. I love diving into real-world tech challenges and turning ideas into code using **Java, Python, SQL, HTML, and CSS**.
 
