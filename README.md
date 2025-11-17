@@ -7,11 +7,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-## Contact
-[![Email](https://img.shields.io/badge/Email-sidorenko.bogdan.05@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sidorenko.bogdan.05@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan_Sydorenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bohdan-sydorenko-6993b13977)  
-[![Telegram](https://img.shields.io/badge/Telegram-Sagmanua-0088cc?style=flat-square&logo=telegram)](https://t.me/Sagmanua)
-
 
 ## My Statistica 
 <p align="center">
@@ -19,4 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+## Contact
+[![Email](https://img.shields.io/badge/Email-sidorenko.bogdan.05@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sidorenko.bogdan.05@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan_Sydorenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bohdan-sydorenko-6993b13977)  
+[![Telegram](https://img.shields.io/badge/Telegram-Sagmanua-0088cc?style=flat-square&logo=telegram)](https://t.me/Sagmanua)
 
