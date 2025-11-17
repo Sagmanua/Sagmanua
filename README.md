@@ -1,8 +1,12 @@
 ## Hi there 👋
 
 
-### 🩶 𝕄𝕚𝕤 𝕖𝕤𝕥𝕒𝕕í𝕤𝕥𝕚𝕔𝕒𝕤  
+## statistica 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sagmanua&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
 </p>
+
+## Contacto
+📧 **sidorenko.bogdan.05@gmail.com**  
+🔗 [LinkedIn](linkedin.com/in/bohdan-sydorenko-6993b1397)  
