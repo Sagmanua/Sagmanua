@@ -38,7 +38,8 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 </p>
 
 ## Contact
-[![Email](https://img.shields.io/badge/Email-sidorenko.bogdan.05@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sidorenko.bogdan.05@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-sidorenko.bogdan.05@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](
+sidorenko.bogdan.05@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan_Sydorenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bohdan-sydorenko-6993b1397)  
 [![Telegram](https://img.shields.io/badge/Telegram-Sagmanua-0088cc?style=flat-square&logo=telegram)](https://t.me/Sagmanua)
 
