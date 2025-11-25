@@ -43,7 +43,9 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 </p>
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>Invalid upstream response (401)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight)Error Fetching Resource
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight)
 
 
 ## Contact
