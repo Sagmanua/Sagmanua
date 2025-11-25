@@ -37,6 +37,9 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-bay.vercel.app?user=Sagmanua&theme=gruvbox" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
+
 </p>
 
 
