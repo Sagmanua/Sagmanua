@@ -34,12 +34,10 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 ## My Statistica 
 
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sagmanua&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagmanua&layout=compact&theme=tokyonight" height="150"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sagmanua&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-
+</p>
 
 
 
