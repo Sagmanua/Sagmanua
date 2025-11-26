@@ -27,9 +27,16 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,github,html,js,java,python,mongodb,mysql,vscode,eclipse,md,&perline=14" />
+
   </a>
+
 </p>
 
+
+<details>
+<summary>zAp: Github Stats</summary>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master-sagmanuas-projects.vercel.app/api?username=Sagmanua&show_icons=true&hide_border=true" />
+</details>
 
 ## My Statistica 
 
@@ -38,14 +45,11 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-bay.vercel.app?user=Sagmanua&theme=gruvbox" 
 </p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats-git-master-sagmanuas-projects.vercel.app/api?username=Sagmanua&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ## Contact
 [![Email](https://img.shields.io/badge/Email-Me-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:sidorenko.bogdan.05@gmail.com)
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bohdan_Sydorenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bohdan-sydorenko-6993b1397)  
 [![Telegram](https://img.shields.io/badge/Telegram-Sagmanua-0088cc?style=flat-square&logo=telegram)](https://t.me/Sagmanua)
 
