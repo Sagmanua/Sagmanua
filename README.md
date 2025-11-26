@@ -33,10 +33,7 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 </p>
 
 
-<details>
-<summary>zAp: Github Stats</summary>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-git-master-sagmanuas-projects.vercel.app/api?username=Sagmanua&show_icons=true&hide_border=true" />
-</details>
+
 
 ## My Statistica 
 
@@ -44,8 +41,9 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-bay.vercel.app?user=Sagmanua&theme=gruvbox" 
 </p>
+<img src="https://github-readme-stats-ivory-two-19.vercel.app/api?username=Sagmanua&show_icons=true&hide_border=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats-git-master-sagmanuas-projects.vercel.app/api?username=Sagmanua&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 
 
 ## Contact
