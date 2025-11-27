@@ -37,9 +37,9 @@ Here on GitHub, you’ll find my experiments, projects, and contributions—a sn
 ## My Statistica 
 
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-bay.vercel.app?user=Sagmanua&theme=gruvbox" 
-</p>
+<p align="center">  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-seven-bay.vercel.app?user=Sagmanua&theme=gruvbox"   
+</p>  
 
 
 <img src="https://github-readme-stats-ivory-two-19.vercel.app/api?username=Sagmanua&show_icons=true&hide_border=true&theme=gruvbox" />  
